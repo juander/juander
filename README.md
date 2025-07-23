@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Juan Henrique</h1>
+<h1 align="center">👋 Olá, me chamo Juan Henrique</h1>
 
 <p align="center">
   Desenvolvedor backend apaixonado por resolver problemas reais com tecnologia. <br>
