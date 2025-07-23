@@ -67,7 +67,7 @@
 ## 💬 Vamos conversar?
 
 - ✉️ Email: [juan.henrique.paes@gmail.com.br](mailto:juan.henrique.paes@gmail.com.br)
-- 💼 LinkedIn: [linkedin.com/in/juander](https://linkedin.com/in/juander)
+- 💼 LinkedIn: [linkedin.com/in/juan-henrique](www.linkedin.com/in/juan-henrique-0588a0325)
 - 🌐 Portfólio: *em construção*
 
 ---
