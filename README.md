@@ -34,6 +34,11 @@
 ![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![MinIO](https://img.shields.io/badge/-MinIO-CF2E2E?style=for-the-badge&logo=min.io&logoColor=white)
 
+### 📊 Ciência de Dados & Visualização
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Prophet](https://img.shields.io/badge/-Prophet-0A0A0A?style=for-the-badge&logo=python&logoColor=white)
+
 ---
 
 ## 🧠 Áreas de Atuação
