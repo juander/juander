@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, me chamo Juan Henrique</h1>
 
 <p align="center">
-  Desenvolvedor backend apaixonado por resolver problemas reais com tecnologia. <br>
+  Desenvolvedor backend, focado em resolver problemas reais com tecnologias ideias para cada contexto. <br>
   Acredito no poder do software em transformar causas sociais, processos e pessoas. <br>
   Sempre buscando aprender mais sobre arquitetura, performance e sistemas distribuídos.
 </p>
