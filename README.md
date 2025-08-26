@@ -4,7 +4,8 @@
   Desenvolvedor backend, focado em resolver problemas reais com tecnologias ideias para cada contexto. <br>
   Acredito no poder do software em transformar causas sociais, processos e pessoas. <br>
   Sempre buscando aprender mais sobre a base sóliada da computação e também conceitos como 
-  arquitetura, performance, sistemas distribuídos e principalmente pensamento crítico (over-engineering).
+  arquitetura, performance, sistemas distribuídos e principalmente pensamento crítico (over-engineering). 
+  Atualmente, estou aprofundando meus estudos em C# e no ecossistema .NET.
 </p>
 
 ---
@@ -39,6 +40,10 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Prophet](https://img.shields.io/badge/-Prophet-0A0A0A?style=for-the-badge&logo=python&logoColor=white)
+
+### 📚 Estudando no Momento
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ---
 
