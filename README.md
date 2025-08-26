@@ -3,7 +3,8 @@
 <p align="center">
   Desenvolvedor backend, focado em resolver problemas reais com tecnologias ideias para cada contexto. <br>
   Acredito no poder do software em transformar causas sociais, processos e pessoas. <br>
-  Sempre buscando aprender mais sobre arquitetura, performance e sistemas distribuídos.
+  Sempre buscando aprender mais sobre a base sóliada da computação e também conceitos como 
+  arquitetura, performance, sistemas distribuídos e principalmente pensamento crítico (over-engineering).
 </p>
 
 ---
@@ -48,7 +49,7 @@
 - Monitoramento de sistemas com Grafana + Prometheus
 - Armazenamento e gestão de arquivos com Amazon S3 e MinIO
 - Banco de dados relacionais e em memória (PostgreSQL, Redis, SQLite)
-- Aplicações escaláveis com Spring Boot, Node.js e Kotlin
+- Aplicações escaláveis com Spring Boot e Node.js
 - Projetos educacionais, sociais e de extensão universitária
 
 ---
