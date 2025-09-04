@@ -13,7 +13,7 @@
 ## 🚀 Tecnologias que domino
 
 ### 👨‍💻 Backend & DevOps
-[![My Skills](https://skillicons.dev/icons?i=kotlin,spring,nodejs,ts,js,python,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,ts,js,python,kotlin,cpp)](https://skillicons.dev)
 
 ### 🧰 Banco de Dados & Mensageria
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis,rabbitmq)](https://skillicons.dev)
