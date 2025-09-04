@@ -1,11 +1,11 @@
 <h1 align="center">👋 Olá, me chamo Juan Henrique</h1>
 
 <p align="center">
-  Desenvolvedor backend, focado em resolver problemas reais com tecnologias ideias para cada contexto. <br>
-  Acredito no poder do software em transformar causas sociais, processos e pessoas. <br>
-  Sempre buscando aprender mais sobre a base sóliada da computação e também conceitos como 
-  arquitetura, performance, sistemas distribuídos e principalmente pensamento crítico (over-engineering). 
-  Atualmente, estou aprofundando meus estudos em C# e no ecossistema .NET.
+  Desenvolvedor backend, focado em resolver problemas reais com tecnologias ideias para cada contexto. <br>
+  Acredito no poder do software em transformar causas sociais, processos e pessoas. <br>
+  Sempre buscando aprender mais sobre a base sóliada da computação e também conceitos como 
+  arquitetura, performance, sistemas distribuídos e principalmente pensamento crítico (over-engineering). 
+  Atualmente, estou aprofundando meus estudos em C# e no ecossistema .NET.
 </p>
 
 ---
@@ -13,37 +13,16 @@
 ## 🚀 Tecnologias que domino
 
 ### 👨‍💻 Backend & DevOps
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,spring,nodejs,ts,js,python,cpp)](https://skillicons.dev)
 
 ### 🧰 Banco de Dados & Mensageria
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis,rabbitmq)](https://skillicons.dev)
 
 ### ☁️ Cloud & Observabilidade
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
-![MinIO](https://img.shields.io/badge/-MinIO-CF2E2E?style=for-the-badge&logo=min.io&logoColor=white)
-
-### 📊 Ciência de Dados & Visualização
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Prophet](https://img.shields.io/badge/-Prophet-0A0A0A?style=for-the-badge&logo=python&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=docker,prometheus,grafana,aws,minio)](https://skillicons.dev)
 
 ### 📚 Estudando no Momento
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
 
 ---
 
@@ -62,8 +41,8 @@
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juander&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juander&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juander&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juander&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -71,7 +50,7 @@
 ## 🐍 Snake de contribuições
 
 <p align="center">
-  <img src="https://github.com/juander/juander/blob/output/github-contribution-grid-snake-dark.svg" alt="snake">
+  <img src="https://github.com/juander/juander/blob/output/github-contribution-grid-snake-dark.svg" alt="snake">
 </p>
 
 ---
