@@ -13,13 +13,16 @@
 ## 🚀 Tecnologias que domino
 
 ### 👨‍💻 Backend & DevOps
-[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,ts,js,python,kotlin,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,ts,js,python,php,kotlin,cpp)](https://skillicons.dev)
 
 ### 🧰 Banco de Dados & Mensageria
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis,rabbitmq)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,elasticsearch,mongodb,sqlite,redis,rabbitmq)](https://skillicons.dev)
 
 ### ☁️ Cloud & Observabilidade
-[![My Skills](https://skillicons.dev/icons?i=docker,prometheus,grafana,aws,minio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,prometheus,grafana,aws,nginx)](https://skillicons.dev)
+
+### 🛠️ Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux)](https://skillicons.dev)
 
 ### 📚 Estudando no Momento
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
