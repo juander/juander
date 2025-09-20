@@ -22,7 +22,7 @@
 [![My Skills](https://skillicons.dev/icons?i=prometheus,grafana,aws)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,linux)](https://skillicons.dev)
 
 ### 📚 Estudando no Momento
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
