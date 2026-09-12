@@ -12,7 +12,7 @@
 ## 🚀 Tecnologias
 
 ### 👨‍💻 Backend & DevOps
-[![My Skills](https://skillicons.dev/icons?i=php,nodejs,ts,js,cpp,docker,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,nodejs,ts,kotlin,java,js,cpp,docker,nginx,kubernets)](https://skillicons.dev)
 
 ### 🧰 Banco de Dados & Mensageria
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis,rabbitmq,elasticsearch)](https://skillicons.dev)
