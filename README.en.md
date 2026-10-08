@@ -1,8 +1,18 @@
-<h1 align="center">Juan H. Paes</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=140&section=header&text=Juan%20H.%20Paes&fontSize=42&fontColor=ffffff&fontAlignY=40" alt="Juan H. Paes">
+</p>
 
 <p align="center">
   <strong>Back-End Engineer · Tech Lead</strong><br>
   Software architecture, microservices and AI systems in production.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=560&lines=Software+architecture;Microservices+and+distributed+systems;AI+systems+in+production" alt="typing">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=560&lines=Software+architecture;Microservices+and+distributed+systems;AI+systems+in+production" alt="typing">
 </p>
 
 <p align="center">🇺🇸 English · <a href="README.md">🇧🇷 Português</a></p>
@@ -58,6 +68,10 @@ flowchart LR
 [![Stack](https://skillicons.dev/icons?i=php,ts,nestjs,kubernetes,linux,nginx,oracle)](https://skillicons.dev)
 
 Also: Python, Java/Kotlin, Go, RabbitMQ, Redis, PostgreSQL, MariaDB, Docker, Prometheus, Grafana.
+
+<p align="center">
+  <img src="github-metrics.svg" alt="Contributions">
+</p>
 
 ## Now
 
