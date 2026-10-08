@@ -48,7 +48,7 @@ RESTful API in Node.js/TypeScript for an NGO transparency portal (UFPE and Recif
 
 ## Stack
 
-[![Stack](https://skillicons.dev/icons?i=php,ts,nestjs,kubernetes,linux,nginx,oracle)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=php,laravel,ts,nestjs,kubernetes,linux,nginx,oracle,git)](https://skillicons.dev)
 
 Also: Python, Java/Kotlin, Go, RabbitMQ, Redis, PostgreSQL, MariaDB, Docker, Prometheus, Grafana.
 

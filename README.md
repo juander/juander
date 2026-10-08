@@ -48,7 +48,7 @@ API RESTful em Node.js/TypeScript para o portal de transparência de ONGs (parce
 
 ## Stack
 
-[![Stack](https://skillicons.dev/icons?i=php,ts,nestjs,kubernetes,linux,nginx,oracle)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=php,laravel,ts,nestjs,kubernetes,linux,nginx,oracle,git)](https://skillicons.dev)
 
 Também: Python, Java/Kotlin, Go, RabbitMQ, Redis, PostgreSQL, MariaDB, Docker, Prometheus, Grafana.
 
