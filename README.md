@@ -1,69 +1,68 @@
-<h1 align="center">👋 Olá, me chamo Juan Henrique</h1>
+<h1 align="center">Juan H. Paes</h1>
 
 <p align="center">
-  Desenvolvedor Back-End com foco na construção de soluções robustas, escaláveis e de fácil manutenção.<br>
-  Tenho experiência com desenvolvimento de APIs RESTful, microsserviços, infraestrutura Linux, Kubernetes (K3s), OpenStack e gerenciamento de VPS.<br>
-  Atuei como <strong>Tech Lead</strong> no maior laboratório acadêmico de produção de software da Universidade Federal de Pernambuco (UFPE), liderando equipes e apoiando decisões técnicas.<br>
-  Atualmente trabalho principalmente com <strong>PHP</strong> e <strong>Node.js</strong>, enquanto aprofundo meus estudos em arquitetura de software, sistemas distribuídos, observabilidade, performance e .NET.
+  <strong>Engenheiro Back-End · Tech Lead</strong><br>
+  Arquitetura de software, microsserviços e sistemas de IA em produção.
 </p>
 
----
-
-## 🚀 Tecnologias
-
-### 👨‍💻 Backend & DevOps
-[![My Skills](https://skillicons.dev/icons?i=php,nodejs,ts,kotlin,java,js,cpp,docker,nginx,kubernets)](https://skillicons.dev)
-
-### 🧰 Banco de Dados & Mensageria
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis,rabbitmq,elasticsearch)](https://skillicons.dev)
-
-### ☁️ Infraestrutura & Observabilidade
-[![My Skills](https://skillicons.dev/icons?i=linux,prometheus,grafana,aws)](https://skillicons.dev)
-
-> **Experiência prática com:** Kubernetes (K3s), OpenStack, VPS, Docker, MinIO e Nginx.
-
-### 🛠️ Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)
+<p align="center"><a href="README.en.md">🇺🇸 English</a> · 🇧🇷 Português</p>
 
 ---
 
-## 🧠 Áreas de Atuação
+## Sobre
 
-- Desenvolvimento de APIs RESTful
-- Arquitetura de microsserviços
-- Desenvolvimento Backend com PHP e Node.js
-- Kubernetes (K3s), OpenStack e gerenciamento de VPS
-- Docker, Linux e Nginx
-- Integração entre serviços com RabbitMQ
-- Observabilidade com Prometheus e Grafana
-- PostgreSQL, Redis, Elasticsearch e MinIO
-- Liderança técnica e revisão de código
+Sou **Tech Lead no V-Lab UFPE**, onde defino a arquitetura e o system design (escalabilidade, integração entre serviços, segurança) e os padrões de desenvolvimento da equipe. Em paralelo, atuo como **engenheiro back-end na Machlev Smart Applications**, levando sistemas legados para microsserviços e integrando IA com resiliência.
 
----
+Gosto de soluções simples, robustas e observáveis. Curso Sistemas de Informação na UFPE.
 
-## 📌 Destaques
+## O que faço
 
-- 💼 Tech Lead no maior laboratório acadêmico de produção de software da Universidade Federal de Pernambuco (UFPE).
-- 🏛️ Desenvolvimento do backend e atuação como Product Owner no projeto **CInbora Impactar**, iniciativa em parceria entre a UFPE e a Prefeitura do Recife.
-- ☁️ Experiência prática com OpenStack, Kubernetes (K3s) e gerenciamento de VPS.
-- 🐘 Atuação profissional focada em desenvolvimento backend com PHP.
-- 🏗️ Interesse em arquitetura de software, sistemas distribuídos, observabilidade e performance.
+- **Sistemas de IA:** integração de LLMs via API com padrão Saga, tratamento de falhas e timeouts do provedor.
+- **Arquitetura e system design:** microsserviços, comunicação assíncrona por eventos, migração incremental de monólitos.
+- **APIs RESTful** em PHP, Node.js/TypeScript e Nest.js.
+- **Infraestrutura:** Kubernetes (K3s), Linux, Nginx, OpenStack, observabilidade.
+- **Liderança técnica:** padrões de código, Git, revisão de código e gestão de fluxo com Scrum.
 
----
+## Cases
 
-## 🐍 Snake de contribuições
+**🤖 IA em produção (Machlev)**
+Integrei funcionalidades de IA via APIs de LLMs. Em vez de depender de transações distribuídas, usei o **padrão Saga** para coordenar etapas compensáveis, com tratamento de falhas e timeouts, mantendo o sistema funcional mesmo com o provedor indisponível.
 
-<p align="center">
-  <img src="https://github.com/juander/juander/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake de contribuições">
-</p>
+**🏗️ Monólito → microsserviços (Machlev)**
+Implementei um cluster **K3s** com ingress e monitoramento de CPU, RAM e I/O, e desacoplei módulos críticos em microsserviços com **HPA**. Região por região, migro o legado com **Strangler Fig**, sem interromper a produção nem apostar numa reescrita completa. Também reestruturei diretórios com mais de 1 milhão de arquivos, resolvendo gargalos de cold lookup no Ext4 e otimizando backups com rsync.
 
----
+**🧭 Liderança técnica (V-Lab UFPE)**
+Arquitetura com React, Nest.js, Oracle e Nginx (SPA + proxy reverso), padrões de código e versionamento, plugins Moodle e participação direta em requisitos e regras de negócio.
 
-## 💬 Vamos conversar?
+**🏋️ [FitCore](https://github.com/orgs/fitcore-org/repositories) (acadêmico)**
+Plataforma de academias em microsserviços com RabbitMQ, API Gateway, Eureka, JWT, serviços de IA (análise de sentimento e previsão financeira com séries temporais) e observabilidade com Prometheus e Grafana.
 
-- ✉️ **Email:** [juan.henrique.paes@gmail.com.br](mailto:juan.henrique.paes@gmail.com.br)
-- 💼 **LinkedIn:** https://www.linkedin.com/in/juan-henrique-0588a0325
+**🌐 [CInbora Transparecer](https://cinboraimpactar.cin.ufpe.br/cinboratransparecer)**
+API RESTful em Node.js/TypeScript para o portal de transparência de ONGs (parceria UFPE e Prefeitura do Recife), com JWT, S3, testes com Jest e CI no GitHub Actions. Atuei também como Product Owner.
 
----
+## Padrão de IA resiliente
 
-> ⭐ Se algum projeto foi útil para você, considere deixar uma estrela!
+```mermaid
+flowchart LR
+    C[Cliente] --> API[API]
+    API --> S{Saga}
+    S -->|1| A[Etapa local]
+    S -->|2| L[LLM API]
+    L -. timeout / falha .-> K[Compensação]
+    K --> A
+    S -->|3| R[Resultado]
+```
+
+## Stack
+
+[![Stack](https://skillicons.dev/icons?i=php,ts,nestjs,kubernetes,linux,nginx,oracle)](https://skillicons.dev)
+
+Também: Python, Java/Kotlin, Go, RabbitMQ, Redis, PostgreSQL, MariaDB, Docker, Prometheus, Grafana.
+
+## Agora
+
+Aprofundando arquitetura de software, sistemas distribuídos, observabilidade e IA aplicada.
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/juan-henrique-0588a0325) · [Email](mailto:juan.henrique.paes@gmail.com)
