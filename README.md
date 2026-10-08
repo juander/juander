@@ -46,19 +46,6 @@ Plataforma de academias em microsserviços com RabbitMQ, API Gateway, Eureka, JW
 **🌐 [CInbora Transparecer](https://cinboraimpactar.cin.ufpe.br/cinboratransparecer)**
 API RESTful em Node.js/TypeScript para o portal de transparência de ONGs (parceria UFPE e Prefeitura do Recife), com JWT, S3, testes com Jest e CI no GitHub Actions. Atuei também como Product Owner.
 
-## Padrão de IA resiliente
-
-```mermaid
-flowchart LR
-    C[Cliente] --> API[API]
-    API --> S{Saga}
-    S -->|1| A[Etapa local]
-    S -->|2| L[LLM API]
-    L -. timeout / falha .-> K[Compensação]
-    K --> A
-    S -->|3| R[Resultado]
-```
-
 ## Stack
 
 [![Stack](https://skillicons.dev/icons?i=php,ts,nestjs,kubernetes,linux,nginx,oracle)](https://skillicons.dev)

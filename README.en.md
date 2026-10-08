@@ -46,19 +46,6 @@ Gym management platform in microservices with RabbitMQ, API Gateway, Eureka, JWT
 **🌐 [CInbora Transparecer](https://cinboraimpactar.cin.ufpe.br/cinboratransparecer)**
 RESTful API in Node.js/TypeScript for an NGO transparency portal (UFPE and Recife City Hall partnership), with JWT, S3, Jest tests and GitHub Actions CI. Also acted as Product Owner.
 
-## Resilient AI pattern
-
-```mermaid
-flowchart LR
-    C[Client] --> API[API]
-    API --> S{Saga}
-    S -->|1| A[Local step]
-    S -->|2| L[LLM API]
-    L -. timeout / failure .-> K[Compensation]
-    K --> A
-    S -->|3| R[Result]
-```
-
 ## Stack
 
 [![Stack](https://skillicons.dev/icons?i=php,ts,nestjs,kubernetes,linux,nginx,oracle)](https://skillicons.dev)
