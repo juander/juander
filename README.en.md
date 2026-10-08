@@ -11,7 +11,7 @@
 
 ## About
 
-I'm **Tech Lead at V-Lab UFPE**, where I define the architecture and system design (scalability, service integration, security) and the team's development standards. I'm also a **back-end engineer at Machlev Smart Applications**, moving legacy systems to microservices and integrating AI with resilience.
+I'm a **Tech Lead** at a UFPE software lab, where I define the architecture and system design (scalability, service integration, security) and the team's development standards. I'm also a **back-end engineer** at a software company, moving legacy systems to microservices and integrating AI with resilience.
 
 I like simple, robust, observable solutions. I'm pursuing a degree in Information Systems at UFPE.
 
@@ -25,13 +25,13 @@ I like simple, robust, observable solutions. I'm pursuing a degree in Informatio
 
 ## Cases
 
-**🤖 AI in production (Machlev)**
+**🤖 AI in production**
 Integrated AI features through LLM APIs. Instead of relying on distributed transactions, I used the **Saga pattern** to coordinate compensable steps, with failure and timeout handling, keeping the system working even when the provider is down.
 
-**🏗️ Monolith → microservices (Machlev)**
+**🏗️ Monolith → microservices**
 Set up a **K3s** cluster with ingress and CPU, RAM and I/O monitoring, and decoupled critical modules into microservices with **HPA**. Region by region, I migrate the legacy system with **Strangler Fig**, without interrupting production or betting on a full rewrite. I also restructured directories with over 1 million files, fixing Ext4 cold-lookup bottlenecks and optimizing rsync backups.
 
-**🧭 Technical leadership (V-Lab UFPE)**
+**🧭 Technical leadership**
 Architecture with React, Nest.js, Oracle and Nginx (SPA + reverse proxy), coding and versioning standards, Moodle plugins, and hands-on work in requirements and business rules.
 
 **🏋️ [FitCore](https://github.com/orgs/fitcore-org/repositories) (academic)**

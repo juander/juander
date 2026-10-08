@@ -11,7 +11,7 @@
 
 ## Sobre
 
-Sou **Tech Lead no V-Lab UFPE**, onde defino a arquitetura e o system design (escalabilidade, integração entre serviços, segurança) e os padrões de desenvolvimento da equipe. Em paralelo, atuo como **engenheiro back-end na Machlev Smart Applications**, levando sistemas legados para microsserviços e integrando IA com resiliência.
+Sou **Tech Lead** em um laboratório de software da UFPE, onde defino a arquitetura e o system design (escalabilidade, integração entre serviços, segurança) e os padrões de desenvolvimento da equipe. Em paralelo, atuo como **engenheiro back-end** em uma empresa de software, levando sistemas legados para microsserviços e integrando IA com resiliência.
 
 Gosto de soluções simples, robustas e observáveis. Curso Sistemas de Informação na UFPE.
 
@@ -25,13 +25,13 @@ Gosto de soluções simples, robustas e observáveis. Curso Sistemas de Informa�
 
 ## Cases
 
-**🤖 IA em produção (Machlev)**
+**🤖 IA em produção**
 Integrei funcionalidades de IA via APIs de LLMs. Em vez de depender de transações distribuídas, usei o **padrão Saga** para coordenar etapas compensáveis, com tratamento de falhas e timeouts, mantendo o sistema funcional mesmo com o provedor indisponível.
 
-**🏗️ Monólito → microsserviços (Machlev)**
+**🏗️ Monólito → microsserviços**
 Implementei um cluster **K3s** com ingress e monitoramento de CPU, RAM e I/O, e desacoplei módulos críticos em microsserviços com **HPA**. Região por região, migro o legado com **Strangler Fig**, sem interromper a produção nem apostar numa reescrita completa. Também reestruturei diretórios com mais de 1 milhão de arquivos, resolvendo gargalos de cold lookup no Ext4 e otimizando backups com rsync.
 
-**🧭 Liderança técnica (V-Lab UFPE)**
+**🧭 Liderança técnica**
 Arquitetura com React, Nest.js, Oracle e Nginx (SPA + proxy reverso), padrões de código e versionamento, plugins Moodle e participação direta em requisitos e regras de negócio.
 
 **🏋️ [FitCore](https://github.com/orgs/fitcore-org/repositories) (acadêmico)**
