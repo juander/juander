@@ -11,10 +11,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=560&lines=Software+architecture;Microservices+and+distributed+systems;AI+systems+in+production" alt="typing">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=560&lines=Software+architecture;Microservices+and+distributed+systems;AI+systems+in+production" alt="typing">
-</p>
-
 <p align="center">🇺🇸 English · <a href="README.md">🇧🇷 Português</a></p>
 
 ---
